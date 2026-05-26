@@ -3,5 +3,5 @@ Indeholder data og R-kode anvendt til mit speciale i statskundskab foråret 2026
 
 Data: Data clean.xlsx
 Databehandling og analyser i R script: Databehandling.R
-Poweranalyse: Powertest.R
+Poweranalyse: Power_test.R
 Data til repræsentativitet: Repræsentativitet.xlsx
